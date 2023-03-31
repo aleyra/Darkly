@@ -20,7 +20,8 @@ Il y a 14 failles :
 	<li>XSS feedback</li>
 	<li>Folder spamming</li>
 	<li>Include page</li>
-	<li>Upload type spoof</li>
+	<li>Upload type spoof (dans upload image)</li>
 	<li>SQL injection search member</li>
+	<li>SQL injection image search : OK</li>
 	<li>Brute force sign in</li>
 </ol>
