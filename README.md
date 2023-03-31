@@ -5,6 +5,7 @@ A la fin du projet, supprimer le dossier nom_faille
 <ul>
 	<li>OWASP : https://owasp.org/www-project-web-security-testing-guide/stable/</li>
 	<li>un top 10 de failles de secu : https://www.futura-sciences.com/tech/actualites/tech-top-10-failles-web-plus-courantes-1625/</li>
+	<li>le site qui m'a montré comment récup des infos sur la bdd : https://portswigger.net/web-security/sql-injection/examining-the-database<li>
 </ul>
 
 Il y a 14 failles :
