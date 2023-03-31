@@ -22,6 +22,5 @@ Il y a 14 failles :
 	<li>Include page</li>
 	<li>Upload type spoof</li>
 	<li>SQL injection search member</li>
-	<li>SQL injection image search</li>
 	<li>Brute force sign in</li>
 </ol>
