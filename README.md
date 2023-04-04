@@ -22,9 +22,9 @@ Il y a 14 failles :
 	<li>Cokkie forgery</li>
 	<li>XSS feedback (c'est du XSS scripting)</li>
 	<li>Folder spamming</li>
-	<li>Include page</li>
+	<li><strike>Include page</strike></li>
 	<li>Upload type spoof (dans upload image)</li>
 	<li>SQL injection search member</li>
-	<li>SQL injection image search : OK</li>
+	<li><strike>SQL injection image search</strike></li>
 	<li>Brute force sign in</li>
 </ol>
