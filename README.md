@@ -11,21 +11,3 @@ A la fin du projet, supprimer le dossier nom_faille
 <p>
 XSS scripting c'est mettre un truc genre <script>alert(1)</script> dans un field ce qui permet d'insert un script JS
 </p>
-
-Il y a 14 failles :
-<ol>
-	<li>Hidden field recover</li>
-	<li>Include redirect</li>
-	<li>Header modify</li>
-	<li>Input form w validation survey</li>
-	<li>htpassword w htaccess robots</li>
-	<li>XSS object html</li>
-	<li>Cokkie forgery</li>
-	<li>XSS feedback (c'est du XSS scripting)</li>
-	<li>Folder spamming</li>
-	<li><strike>Include page</strike></li>
-	<li>Upload type spoof (dans upload image)</li>
-	<li><strike>SQL injection image search</strike></li>
-	<li><strike>SQL injection search member</strike></li>
-	<li>Brute force sign in</li>
-</ol>
