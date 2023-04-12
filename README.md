@@ -7,6 +7,9 @@ A la fin du projet, supprimer le dossier nom_faille
 	<li>un top 10 de failles de secu : https://www.futura-sciences.com/tech/actualites/tech-top-10-failles-web-plus-courantes-1625/</li>
 	<li>petit cours sur le hacking (Merci Tim) : https://tryhackme.com/module/web-hacking-1</li>
 </ul>
+<p>
+XSS scripting c'est mettre un truc genre <script>alert(1)</script> dans un field ce qui permet d'insert un script JS
+</p>
 
 Il y a 14 failles :
 <ol>
@@ -17,11 +20,11 @@ Il y a 14 failles :
 	<li>htpassword w htaccess robots</li>
 	<li>XSS object html</li>
 	<li>Cokkie forgery</li>
-	<li>XSS feedback</li>
+	<li>XSS feedback (c'est du XSS scripting)</li>
 	<li>Folder spamming</li>
-	<li>Include page</li>
+	<li><strike>Include page</strike></li>
 	<li>Upload type spoof (dans upload image)</li>
 	<li>SQL injection search member</li>
-	<li>SQL injection image search : OK</li>
-	<li>Brute force sign in : en cours</li>
+	<li><strike>SQL injection image search</strike></li>
+	<li>Brute force sign in</li>
 </ol>
