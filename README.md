@@ -13,3 +13,10 @@ XSS scripting c'est mettre un truc genre <script>alert(1)</script> dans un field
 </p>
 
 <p>Il faudrait voir comment faire pour corriger les failles trouvee</p>
+<p>Pour organiser les rendus, un (Exploration)
+
+Offensive
+
+Faille
+
+Mitigation</p>
