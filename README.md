@@ -11,3 +11,5 @@ A la fin du projet, supprimer le dossier nom_faille
 <p>
 XSS scripting c'est mettre un truc genre <script>alert(1)</script> dans un field ce qui permet d'insert un script JS
 </p>
+
+<p>Il faudrait voir comment faire pour corriger les failles trouvee</p>
