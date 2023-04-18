@@ -18,3 +18,5 @@ Upload
 -----------------------------388438716520295718423503181162--
 </p>
 <p>le fichier que j'ai utilisé comme base est à côté de ce fichier</p>
+<p>j'ai utilisé cette vidéo<li>https://www.youtube.com/watch?v=YAFVGQ-lBoM</li> pour faire mon attaque</p>
+<p>pour mitiger cette attaque, on pourrait faire au moins une vérification de mimeType. On pourrait aussi ne pas exécuter ce qui devrait être une image, mais je ne sais pas comment faire. Apparement, il n'y a pas de consensus pour mitiger ce genre de faille</p>
