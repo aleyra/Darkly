@@ -20,3 +20,18 @@ Offensive
 Faille
 
 Mitigation</p>
+
+<p>
+	Liste des failles reussies : plus que 5<br>
+	<ol>
+		<li>Hidden field recover : Recovery_mail</li>
+		<li>Input form w validation survey : survey-form-validation</li>
+		<li>Cookkie Forgery : Cookie</li>
+		<li>XSS Feedback : xss</li>
+		<li>Include Page</li>
+		<li>Upload type spoof : file-uplaod-xss</li>
+		<li>SQL injection search member</li>
+		<li>SQL injection image search</li>
+		<li>Brute force sign in</li>
+	</ol>
+</p>
