@@ -22,9 +22,10 @@ Faille
 Mitigation</p>
 
 <p>
-	Liste des failles reussies : plus que 5<br>
+	Liste des failles reussies : plus que 4<br>
 	<ol>
 		<li>Hidden field recover : Recovery_mail</li>
+		<li>Include redirect : Redirect</li>
 		<li>Input form w validation survey : survey-form-validation</li>
 		<li>Cookkie Forgery : Cookie</li>
 		<li>XSS Feedback : xss</li>
