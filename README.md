@@ -22,11 +22,12 @@ Faille
 Mitigation</p>
 
 <p>
-	Liste des failles reussies : plus que 4<br>
+	Liste des failles reussies : plus que 3 (Folder Spamming en cours)<br>
 	<ol>
 		<li>Hidden field recover : Recovery_mail</li>
 		<li>Include redirect : Redirect</li>
 		<li>Input form w validation survey : survey-form-validation</li>
+		<li>htpassword w htaccess robots :  Htpasswd</li>
 		<li>Cookkie Forgery : Cookie</li>
 		<li>XSS Feedback : xss</li>
 		<li>Include Page</li>
