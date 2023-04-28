@@ -22,7 +22,7 @@ Faille
 Mitigation</p>
 
 <p>
-	Liste des failles reussies : plus que 2<br>
+	Liste des failles reussies : plus que 1<br>
 	<ol>
 		<li>Hidden field recover : Recovery_mail</li>
 		<li>Header Modifier : request_header_modified</li>
