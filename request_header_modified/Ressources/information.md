@@ -10,3 +10,9 @@
         <li>-A : permet de set le user agent</li>
     </ul>
 </p>
+<p>
+    <ul>
+        <li>https://www.cyberciti.biz/faq/curl-set-user-agent-command-linux-unix/</li>
+        <li>https://catonmat.net/cookbooks/curl/add-referrer</li>
+    </ul>
+</p>
