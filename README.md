@@ -22,7 +22,7 @@ Faille
 Mitigation</p>
 
 <p>
-	Liste des failles reussies : plus que 3 (dont 1 en cours)<br>
+	Liste des failles reussies : plus que 2<br>
 	<ol>
 		<li>Hidden field recover : Recovery_mail</li>
 		<li>Include redirect : Redirect</li>
@@ -30,7 +30,7 @@ Mitigation</p>
 		<li>htpassword w htaccess robots :  Htpasswd</li>
 		<li>Cookkie Forgery : Cookie</li>
 		<li>XSS Feedback : xss</li>
-		<li>Folder Spamming : Folder (en cours)</li>
+		<li>Folder Spamming : Folder</li>
 		<li>Include Page</li>
 		<li>Upload type spoof : file-uplaod-xss</li>
 		<li>SQL injection search member</li>
