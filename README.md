@@ -25,6 +25,7 @@ Mitigation</p>
 	Liste des failles reussies : plus que 2<br>
 	<ol>
 		<li>Hidden field recover : Recovery_mail</li>
+		<li>Header Modifier : request_header_modified</li>
 		<li>Include redirect : Redirect</li>
 		<li>Input form w validation survey : survey-form-validation</li>
 		<li>htpassword w htaccess robots :  Htpasswd</li>
