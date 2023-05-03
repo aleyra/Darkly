@@ -24,8 +24,11 @@
     Entre temps un ami a trouve pourquoi mon wget ne marchait pas comme je le souhaitais : il faut pas oublier le "/" apres ".hidden" -_- : donc la solution complete pour telecharger tout le dossier .hidden est : wget -r -np -l 4 -e robots=off --reject="index.html*" http://10.12.200.32/.hidden/ (-np = --no-parent : )
 </p>
 <p>
-    NB : retrouver les liens utiles sur nanao-42<br>
     <ol>
+        <li>https://stackoverflow.com/questions/17282915/how-to-download-an-entire-directory-and-subdirectories-using-wget</li>
+        <li>https://superuser.com/questions/655554/download-all-folders-subfolders-and-files-using-wget</li>
+        <li>https://www.baeldung.com/linux/wget-download-directory-subdirectories</li>
+        <li>https://superuser.com/questions/200426/curl-to-download-a-directory</li>
         <li>https://unix.stackexchange.com/questions/55755/print-file-content-without-the-first-and-last-lines</li>
         <li>https://stackoverflow.com/questions/19437199/cut-from-column-to-end-of-line</li>
         <li>https://www.unix.com/shell-programming-and-scripting/147558-sed-removing-until-end-line.html</li>
